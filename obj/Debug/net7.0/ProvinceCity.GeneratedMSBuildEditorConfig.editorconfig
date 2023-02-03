@@ -1,0 +1,93 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ProvinceCity
+build_property.RootNamespace = ProvinceCity
+build_property.ProjectDir = /Users/yoshi/Documents/term_4/COMP4870/labs/ProvinceCity/
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/yoshi/Documents/term_4/COMP4870/labs/ProvinceCity
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/yoshi/Documents/term_4/COMP4870/labs/ProvinceCity/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/yoshi/Documents/term_4/COMP4870/labs/ProvinceCity/Pages/CityPages/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2l0eVBhZ2VzL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/yoshi/Documents/term_4/COMP4870/labs/ProvinceCity/Pages/CityPages/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2l0eVBhZ2VzL0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/yoshi/Documents/term_4/COMP4870/labs/ProvinceCity/Pages/CityPages/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2l0eVBhZ2VzL0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/yoshi/Documents/term_4/COMP4870/labs/ProvinceCity/Pages/CityPages/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2l0eVBhZ2VzL0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/yoshi/Documents/term_4/COMP4870/labs/ProvinceCity/Pages/CityPages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2l0eVBhZ2VzL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/yoshi/Documents/term_4/COMP4870/labs/ProvinceCity/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/yoshi/Documents/term_4/COMP4870/labs/ProvinceCity/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/yoshi/Documents/term_4/COMP4870/labs/ProvinceCity/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/yoshi/Documents/term_4/COMP4870/labs/ProvinceCity/Pages/ProvincePages/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJvdmluY2VQYWdlcy9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/yoshi/Documents/term_4/COMP4870/labs/ProvinceCity/Pages/ProvincePages/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJvdmluY2VQYWdlcy9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/yoshi/Documents/term_4/COMP4870/labs/ProvinceCity/Pages/ProvincePages/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJvdmluY2VQYWdlcy9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/yoshi/Documents/term_4/COMP4870/labs/ProvinceCity/Pages/ProvincePages/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJvdmluY2VQYWdlcy9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/yoshi/Documents/term_4/COMP4870/labs/ProvinceCity/Pages/ProvincePages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJvdmluY2VQYWdlcy9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/yoshi/Documents/term_4/COMP4870/labs/ProvinceCity/Pages/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/yoshi/Documents/term_4/COMP4870/labs/ProvinceCity/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/yoshi/Documents/term_4/COMP4870/labs/ProvinceCity/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/yoshi/Documents/term_4/COMP4870/labs/ProvinceCity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/yoshi/Documents/term_4/COMP4870/labs/ProvinceCity/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-t9cfhpu0at
